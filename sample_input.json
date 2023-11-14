@@ -1,0 +1,13 @@
+{
+    "text": "What is the difference between a Llama and an Alpaca?",
+    "max_tokens": 50,
+    "max_input_tokens": 0,
+    "num_samples": 1,
+    "eos_token_ids": [1, 2],
+    "stop": [],
+    "temperature": 1.0,
+    "top_k": 50,
+    "top_p": 1.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  }

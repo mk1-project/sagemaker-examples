@@ -1,0 +1,16 @@
+{
+ "created": 1700510342.0931604,
+ "finished": 1700510348.9619334,
+ "num_samples": 1,
+ "prompt": "What is the difference between a Llama and an Alpaca?",
+ "prompt_tokens": 16,
+ "responses":
+    [
+        {
+            "finish_reason": "eos",
+            "finished": 1700510348.9619334,
+            "generated_tokens": 411,
+            "text": "One drives a car, the other drives a truck."
+        }
+    ]
+}
